@@ -17,20 +17,10 @@ nav .nav-link{
 nav .navbar-brand:hover,
 nav .nav-link:hover {
     color:#4d93f6 ;
-<<<<<<< HEAD
   
 }
 .navbar-toggler:focus {
     box-shadow: 0 0 0 0;
-=======
-}
-.navbar-toggler:focus {
-    box-shadow: 0 0 0 0;
-}
-nav i{
-    color:white;
-    font-size:16px;
->>>>>>> 1585ccb7351b8892e47308bdd8ea15d086dcc8c7
 }
 .home{
     background-color:#050418;
@@ -65,16 +55,8 @@ nav i{
     height: -webkit-fill-available;
     animation: up-and-down 5s linear infinite;
 }
-<<<<<<< HEAD
 .home .text{
     position: relative;
-=======
-  @media (max-width: 767px) {
-    .home img {
-     display: none;
-    }
-  
->>>>>>> 1585ccb7351b8892e47308bdd8ea15d086dcc8c7
 }
 @keyframes up-and-down {
     0%,
