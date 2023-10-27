@@ -24,6 +24,7 @@ nav .nav-link:hover {
 nav i{
     color:white;
     font-size:16px;
+}
 .home{
     background-color:#050418;
     height: calc(100vh - 56px);
