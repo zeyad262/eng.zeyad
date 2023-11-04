@@ -108,6 +108,7 @@ nav .nav-link:hover {
     border-radius: 10px;
     background-color: white;
     transition: .3s ease;
+    min-height: 270px;
 }
 .projects .box:hover{
     transform: scale(1.1);
@@ -122,7 +123,8 @@ nav .nav-link:hover {
 /* strat contact */
 
 .contact{
-    background-image: url(../images/subscribe.jpg);
+    /* background-image: url(../images/subscribe.jpg); */
+    background-color: #222831;
     background-size: cover;
     position: relative;
 }
